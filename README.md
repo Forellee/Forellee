@@ -3,7 +3,7 @@
 - 🛠 Main technologies: Python, JavaScript  
 - 📚 Working on my own projects, including [statistist.ru](https://statistist.ru)  
 - 🌱 Actively improving my development skills  
-- 📫 Contact me via email: forellee.dev@gmail.com or Telegram: [@forellee](https://t.me/AntiSharp)
+- 📫 Contact me via email: manokhovmaksim@gmail.com or Telegram: [@AntiSharp](https://t.me/AntiSharp)
 
 ---
 
