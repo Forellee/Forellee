@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Maksim 
+- 👋 Hi, I’m Max
 - 👨‍💻 Fullstack developer, currently studying at Netology  
 - 🛠 Main technologies: Python, JavaScript  
 - 📚 Working on my own projects, including [statistist.ru](https://statistist.ru)  
